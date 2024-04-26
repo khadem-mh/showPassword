@@ -3,7 +3,7 @@
 # <p align="center"> Hi there 👋 I'm Mohammad Hossein 👨‍💻 </p>
  <p align="center"> React Js expert and FrontEnd Developer from Iran.</p>
 
-## Descripton Mini-Project
+## Description Mini-Project
 - This type of input is often used to show the password and hide the user's ciphertext.
   
 - Simple but stylish, attractive and functional design. 
